@@ -3,9 +3,69 @@
 //6 -> да
 //7 -> да
 //1 -> нет
-Console.WriteLine("Enter dayWeek : ");
-int dayWeek = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите день недели : ");
+string dayWeek = Console.ReadLine();
+switch (dayWeek) 
+{
+    
+    case "1":
+    Console.WriteLine("Понедельник -Нет");
+    break;
+   
+    case "2":
+    Console.WriteLine("Вторник  -Нет");
+    break;
 
-switch (dayWeek)
+ case "3":
+    Console.WriteLine("Среда -Нет");
+    break;
+    case "4":
+    Console.WriteLine("Четверг -Нет");
+    break;
+    case "5":
+    Console.WriteLine("Пятница -Нет");
+    break;
+    case "6":
+    Console.WriteLine("Суббота -да");
+    break;
+    case "7":
+    Console.WriteLine("Воскресенье -да ");
+    break;
+    default: 
+    Console.WriteLine("Некорректный день недели");
+    break;
 
+}
+if (dayWeek=="1")
+{
+    Console.WriteLine("Понедельник -Нет");
+}
+else if(dayWeek=="2")
+{
+   Console.WriteLine("Вторник  -Нет"); 
+}
+else if(dayWeek=="3")
+{
+   Console.WriteLine("Среда  -Нет"); 
+}
+else if(dayWeek=="4")
+{
+   Console.WriteLine("Четверг  -Нет"); 
+}
+   else if(dayWeek=="5")
+{
+   Console.WriteLine("Пятница  - нет"); 
+}
 
+else if(dayWeek=="6")
+{
+   Console.WriteLine("Суббота  - да"); 
+}
+else if(dayWeek=="7")
+{
+   Console.WriteLine("Воскресенье - да "); 
+}
+else 
+{
+   Console.WriteLine("Некорректный день недели");
+}
