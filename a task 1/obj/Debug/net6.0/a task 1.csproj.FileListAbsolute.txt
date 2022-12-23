@@ -1,0 +1,15 @@
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\bin\Debug\net6.0\a task 1.exe
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\bin\Debug\net6.0\a task 1.deps.json
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\bin\Debug\net6.0\a task 1.runtimeconfig.json
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\bin\Debug\net6.0\a task 1.dll
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\bin\Debug\net6.0\a task 1.pdb
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\obj\Debug\net6.0\a task 1.csproj.AssemblyReference.cache
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\obj\Debug\net6.0\a task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\obj\Debug\net6.0\a task 1.AssemblyInfoInputs.cache
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\obj\Debug\net6.0\a task 1.AssemblyInfo.cs
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\obj\Debug\net6.0\a task 1.csproj.CoreCompileInputs.cache
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\obj\Debug\net6.0\a task 1.dll
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\obj\Debug\net6.0\refint\a task 1.dll
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\obj\Debug\net6.0\a task 1.pdb
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\obj\Debug\net6.0\a task 1.genruntimeconfig.cache
+C:\Users\иир\Desktop\учеба\seminar 2\a task 1\obj\Debug\net6.0\ref\a task 1.dll
